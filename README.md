@@ -7,3 +7,5 @@ To install from your own drive:
 3. Select "Load Unpacked Extension"  
 4. Navigate to & select the NewTab-Color-Void folder on your drive  
 5. Use the Options menu to change the default color
+
+To install from Chrome Web Store: https://chrome.google.com/webstore/detail/newtab-color-void/enbboabmkalnjjaciinmnjfbhajpejbl
